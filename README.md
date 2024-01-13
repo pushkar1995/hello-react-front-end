@@ -37,9 +37,9 @@
 # 📖 React Frontend <a name="about-project"></a>
 
 **React Frontend** is web project using react that will show you a greeting from an api server
-This is the link to the [backend pr]()
+This is the link to the [backend pr](https://github.com/pushkar1995/hello-rails-backend/pull/1)
 
--[backend feature_hello_rails]()
+-[backend project-setup branch](https://github.com/pushkar1995/hello-rails-backend/tree/project-setup)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -132,12 +132,11 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## 👥 Author <a name="author"></a>
 
-👤 Pushkar Gautam
+👤 **Pushkar Gautam**
 
 - GitHub: [@pushkar1995](https://github.com/pushkar1995)
 - Twitter: [@Pushkar9951](https://twitter.com/Pushkar9951)
 - LinkedIn: [pushkargautam](https://www.linkedin.com/in/pushkar-gautam-94a385271/)
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -180,6 +179,6 @@ I would like to thank microverse for this project
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/pushkar1995/hello-react-frontend/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
